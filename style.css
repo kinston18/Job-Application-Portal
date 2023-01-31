@@ -17,5 +17,7 @@ body{
     background-color: #dbeafe;
     margin: 0 auto;
     margin-top: 50px;
-    box-shadow: auto;
+    box-shadow: 4px 3px 5px rgba(1, 1, 1, 0);
+    border-radius: 25px;
 }
+
